@@ -37,7 +37,7 @@ console.log(`The odd numbers you gave are ${getOdds(numbers)}.`);
  * @returns {number} the length of the array
  */
 function getLength(numbers) {
-  numbers = nukbers.length;
+  numbers = numbers.length;
   return numbers;
 }
 
